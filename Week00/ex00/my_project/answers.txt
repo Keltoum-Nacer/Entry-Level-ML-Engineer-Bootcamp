@@ -1,0 +1,5 @@
+- command to output a list of installed packages and their versions: pip3 list or python3 -m pip list.
+- command to show the package metadata of numpy: pip show numpy or python3 -m pip show numpy.
+- command to remove the package numpy: pip uninstall numpy or python3 -m pip uninstall numpy.
+- command to reinstall the package numpy: pip install --force-reinstall numpy or python3 pip install --force-reinstall numpy.
+- command to freeze your python packages and their versions in a requirements.txt: pip freeze > requirements.txt or python3 -m pip freeze > requirements.txt.

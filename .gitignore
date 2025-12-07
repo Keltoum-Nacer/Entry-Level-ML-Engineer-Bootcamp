@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Development and temporary files
+.DS_Store
+*.log
+
+# Jupyter Notebook checkpoints (if you ever add notebooks)
+.ipynb_checkpoints/
+
+# Build / distribution
+dist/
+build/
+
+# VSCode settings (optional)
+.vscode/
